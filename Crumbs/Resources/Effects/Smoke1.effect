@@ -1,0 +1,12 @@
+0.0000 0.0000 0.0000 1.0000
+0
+T_Effect_Smoke1.dds
+2.0000			//SCALE
+512		//Map Width
+512			//Map Height
+128			//Cell Width
+128			//Cell Height
+4			//Column Count
+4			//Row Count
+16			//Frame Count
+0.015		//Frame Duration

@@ -1,0 +1,1 @@
+copy /Y ".\Debug\ED2StaticMeshAndSceneExporter.mll" "C:\MayaPlugins"

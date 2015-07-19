@@ -1,0 +1,12 @@
+0.0000 0.0000 0.0000 1.0000
+3
+T_Effect_Drip.dds
+0.5000			//SCALE
+60		//Map Width
+800			//Map Height
+60			//Cell Width
+800			//Cell Height
+1			//Column Count
+1			//Row Count
+1			//Frame Count
+0.04		//Frame Duration

@@ -1,0 +1,12 @@
+0.0000 0.0000 0.0000 1.0000
+0
+T_Effect_Collision.dds
+1.5000			//SCALE
+1024		//Map Width
+768			//Map Height
+256			//Cell Width
+256			//Cell Height
+4			//Column Count
+3			//Row Count
+9			//Frame Count
+0.03		//Frame Duration

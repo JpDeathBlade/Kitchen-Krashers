@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+<SceneItem>
+<Mesh name="testLVL" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-12</x><y>0</y><z>-88.5201</z></center>
+</radius = 89.3298>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_a" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-10.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_b" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-14.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_c" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-18.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_d" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-22.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_e" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-26.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_f" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-30.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_g" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-34.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_h" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-38.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_i" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-42.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_j" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-46.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_k" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-50.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_l" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-54.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_m" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-58.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_n" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-62.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_o" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-66.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_p" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-70.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_q" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-74.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_r" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-78.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_s" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-82.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_t" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-86.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_u" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-90.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_v" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-94.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_w" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-98.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_x" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-102.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_y" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-106.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_z" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-110.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_aa" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-114.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ab" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-118.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ac" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-122.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ad" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-126.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ae" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-130.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_af" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-134.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ag" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-138.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ah" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-142.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ai" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-146.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_aj" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-150.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ak" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-154.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_al" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-158.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_am" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-162.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_an" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-166.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ao" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-170.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="FlagPole_ap" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-9.08824</x><y>3.02337</y><z>-174.2</z></center>
+</radius = 3.15866>
+</SceneItem>
+<SceneItem>
+<Mesh name="AnthonyStartLoc" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>-1</x><y>0</y><z>-1.22465e-016</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>1.22465e-016</x><y>0</y><z>-1</z><w>0</w></zAxis>
+<wAxis><x>-11.9275</x><y>0.5</y><z>-10.1023</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>0</x><y>-0.348799</y><z>0</z></center>
+</radius = 0.261889>
+</SceneItem>
+<SceneItem>
+<Mesh name="GummyWormLoc" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>-1</x><y>0</y><z>-1.22465e-016</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>1.22465e-016</x><y>0</y><z>-1</z><w>0</w></zAxis>
+<wAxis><x>-11.9275</x><y>0.5</y><z>-8.48932</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>0</x><y>-0.348799</y><z>0</z></center>
+</radius = 0.261889>
+</SceneItem>
+<SceneItem>
+<Mesh name="SM_Bullseye" id=0/>
+<Transparent=0/>
+<WorldMatrix>
+<xAxis><x>1</x><y>0</y><z>0</z><w>0</w></xAxis>
+<yAxis><x>0</x><y>1</y><z>0</z><w>0</w></yAxis>
+<zAxis><x>0</x><y>0</y><z>1</z><w>0</w></zAxis>
+<wAxis><x>0</x><y>0</y><z>0</z><w>1</w></wAxis>
+</WorldMatrix>
+<center><x>-11.9275</x><y>0.0838098</y><z>-166.2</z></center>
+</radius = 4.24264>
+</SceneItem>
+</Scene>

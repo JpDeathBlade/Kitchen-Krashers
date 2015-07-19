@@ -1,0 +1,13 @@
+0.0000 0.0000 0.0000 1.0000
+1
+T_Effect_Wake.dds
+T_Effect_WakeAlpha.dds
+3.0000			//SCALE
+128			//Map Width
+128			//Map Height
+128			//Cell Width
+128			//Cell Height
+1			//Column Count
+1			//Row Count
+1			//Frame Count
+0.0100			//Frame Duration

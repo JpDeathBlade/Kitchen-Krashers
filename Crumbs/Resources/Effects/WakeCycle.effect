@@ -1,0 +1,12 @@
+0.0000 0.0000 0.0000 1.0000
+2
+T_Effect_WakeCycle.dds
+3.0000			//SCALE
+512		//Map Width
+512			//Map Height
+102			//Cell Width
+102			//Cell Height
+5			//Column Count
+5			//Row Count
+25			//Frame Count
+0.015		//Frame Duration
